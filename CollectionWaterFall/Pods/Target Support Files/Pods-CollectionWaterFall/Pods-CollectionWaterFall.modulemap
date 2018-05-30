@@ -1,0 +1,6 @@
+framework module Pods_CollectionWaterFall {
+  umbrella header "Pods-CollectionWaterFall-umbrella.h"
+
+  export *
+  module * { export * }
+}

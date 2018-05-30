@@ -1,0 +1,5 @@
+platform:ios,'8.0'
+target 'CollectionWaterFall' do
+    pod 'Masonry'
+    use_frameworks!
+end
